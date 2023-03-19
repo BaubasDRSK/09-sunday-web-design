@@ -1,0 +1,6 @@
+/fonts
+/node_modules
+/.vscode
+.DS_Store
+
+README.md
