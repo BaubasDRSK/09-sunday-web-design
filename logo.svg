@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.497416,0,0,0.401142,0.282293,0.282296)">
+        <g>
+            <clipPath id="_clip1">
+                <rect x="4.067" y="5.043" width="16.867" height="20.914"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <rect id="Artboard1" x="0" y="0" width="25" height="31" style="fill:none;"/>
+                <g transform="matrix(0.531915,0,0,0.659574,-52.6596,-19.1277)">
+                    <g id="Artboard11" serif:id="Artboard1">
+                        <g>
+                            <path d="M116,37L116,41L119,41L119,37L126,37L126,41L129,41L129,37L135,37L135,47L110,47L110,37L116,37ZM128.581,53.814L134,49.943L134,68L127,68L127,57.5C127,55.016 124.984,53 122.5,53C120.016,53 118,55.016 118,57.5L118,68L111,68L111,49.804L117.47,53.848C117.732,54.012 118.055,54.045 118.344,53.939C118.634,53.833 118.859,53.598 118.953,53.304C118.953,53.304 119.73,51 122.5,51C125.504,51 127.163,53.547 127.163,53.547C127.311,53.775 127.547,53.932 127.815,53.983C127.915,54.001 128.016,54.005 128.114,53.993C128.281,53.974 128.442,53.913 128.581,53.814ZM113,58.002L113,60.405L117,63.072L117,60.668L113,58.002ZM113,62.539L113,64.942L116.086,67L117,67L117,65.205L113,62.539ZM128.114,56.423L128.114,58.827L132.114,56.16L132.114,53.757L128.114,56.423ZM128.114,60.96L128.114,63.364L132.114,60.697L132.114,58.294L128.114,60.96ZM128.114,65.497L128.114,67L129.466,67L132.114,65.234L132.114,62.831L128.114,65.497ZM113,53.465L113,55.869L117,58.535L117,56.131L113,53.465ZM128.114,51.572C127.148,50.549 125.233,49 122.5,49C119.764,49 118.306,50.486 117.604,51.574L116.687,51L111.887,48L133.28,48L129.08,51L128.114,51.572Z" style="fill:url(#_Linear2);"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(24,31,-31,24,110,37)"><stop offset="0" style="stop-color:rgb(63,60,165);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(174,59,165);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
